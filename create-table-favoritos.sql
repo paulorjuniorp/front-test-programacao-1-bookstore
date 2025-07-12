@@ -1,7 +1,0 @@
-CREATE
-TABLE favoritos (
-  id INT PRIMARY KEY AUTO_INCREMENT,
-  nome VARCHAR(255),
-  autor VARCHAR(255),
-  ano INT
-);
